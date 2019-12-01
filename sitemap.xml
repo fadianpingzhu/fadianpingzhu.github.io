@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fadianpingzhu.com/tags/index.html</loc>
+    
+    <lastmod>2019-12-01T16:09:37.663Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fadianpingzhu.com/categories/index.html</loc>
+    
+    <lastmod>2019-12-01T16:09:21.250Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fadianpingzhu.com/archives/index.html</loc>
+    
+    <lastmod>2019-12-01T16:09:10.295Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fadianpingzhu.com/404/index.html</loc>
+    
+    <lastmod>2019-12-01T16:08:56.030Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fadianpingzhu.com/about/index.html</loc>
+    
+    <lastmod>2019-12-01T16:08:42.257Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://fadianpingzhu.com/lib/reading_progress/renovate.json</loc>
     
     <lastmod>2019-12-01T15:20:46.190Z</lastmod>
@@ -23,44 +58,9 @@
   </url>
   
   <url>
-    <loc>https://fadianpingzhu.com/404/index.html</loc>
-    
-    <lastmod>2019-12-01T13:48:01.032Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://fadianpingzhu.com/top/index.html</loc>
     
     <lastmod>2019-11-30T13:58:20.525Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fadianpingzhu.com/about/index.html</loc>
-    
-    <lastmod>2019-11-30T12:20:43.263Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fadianpingzhu.com/archives/index.html</loc>
-    
-    <lastmod>2019-11-30T12:20:21.235Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fadianpingzhu.com/categories/index.html</loc>
-    
-    <lastmod>2019-11-30T12:19:52.961Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fadianpingzhu.com/tags/index.html</loc>
-    
-    <lastmod>2019-11-30T12:19:18.328Z</lastmod>
     
   </url>
   

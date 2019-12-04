@@ -3,6 +3,7 @@ Allow: /
 Allow: /archives/
 Allow: /categories/
 Allow: /tags/
+Allow: /books/
 Disallow: /js/
 Disallow: /css/
 Disallow: /images/
@@ -10,3 +11,4 @@ Disallow: /lib/
 Disallow: /assets/
 
 Sitemap: https://fadianpingzhu.com/sitemap.xml
+Sitemap: https://fadianpingzhu.com/baidusitemap.xml

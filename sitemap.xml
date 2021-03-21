@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.fadianpingzhu.com/495f506c/</loc>
+    
+    <lastmod>2021-03-21T13:41:11.614Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.fadianpingzhu.com/cfd0ea8b/</loc>
+    
+    <lastmod>2021-03-21T13:39:11.768Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.fadianpingzhu.com/1a964fc2/</loc>
     
-    <lastmod>2021-03-20T14:08:14.149Z</lastmod>
+    <lastmod>2021-03-20T14:09:26.599Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.fadianpingzhu.com/359204bb/</loc>
     
-    <lastmod>2021-03-20T14:06:07.305Z</lastmod>
+    <lastmod>2021-03-20T14:09:26.584Z</lastmod>
     
   </url>
   
@@ -527,14 +541,14 @@
   </url>
   
   <url>
-    <loc>https://www.fadianpingzhu.com/lib/three/renovate.json</loc>
+    <loc>https://www.fadianpingzhu.com/lib/three/package.json</loc>
     
     <lastmod>2019-12-06T13:47:17.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.fadianpingzhu.com/lib/three/package.json</loc>
+    <loc>https://www.fadianpingzhu.com/lib/three/renovate.json</loc>
     
     <lastmod>2019-12-06T13:47:17.000Z</lastmod>
     
@@ -562,14 +576,14 @@
   </url>
   
   <url>
-    <loc>https://www.fadianpingzhu.com/lib/bookmark/package.json</loc>
+    <loc>https://www.fadianpingzhu.com/lib/bookmark/renovate.json</loc>
     
     <lastmod>2019-12-02T10:12:08.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.fadianpingzhu.com/lib/bookmark/renovate.json</loc>
+    <loc>https://www.fadianpingzhu.com/lib/bookmark/package.json</loc>
     
     <lastmod>2019-12-02T10:12:08.000Z</lastmod>
     
@@ -597,14 +611,14 @@
   </url>
   
   <url>
-    <loc>https://www.fadianpingzhu.com/lib/reading_progress/README.html</loc>
+    <loc>https://www.fadianpingzhu.com/lib/reading_progress/package.json</loc>
     
     <lastmod>2019-12-01T15:20:46.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.fadianpingzhu.com/lib/reading_progress/package.json</loc>
+    <loc>https://www.fadianpingzhu.com/lib/reading_progress/README.html</loc>
     
     <lastmod>2019-12-01T15:20:46.000Z</lastmod>
     
